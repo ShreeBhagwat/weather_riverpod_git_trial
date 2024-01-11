@@ -5,7 +5,7 @@ void main() {
   runApp(WeatherAppRiverpod());
 }
 
-class WeatherAppRiverpod extends StatelessWidget {
+asdasdclass WeatherAppRiverpod extends StatelessWidget {
   const WeatherAppRiverpod({super.key});
 
   @override
